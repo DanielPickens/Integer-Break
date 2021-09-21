@@ -1,5 +1,5 @@
 # Integer-Break
-My clean JS solution that's faster than 94% of solutions on Leetcode.
+My clean JS solution that's faster than 92% of solutions on Leetcode.
 
 
 "Given an integer n, break it into the sum of k positive integers, where k >= 2, and maximize the product of those integers.
